@@ -9,6 +9,12 @@
   安装后重启 Codex，就可以在宠物列表里选择 <code>CuiMao</code>。
 </p>
 
+## 动作预览
+
+<p align="center">
+  <img src="pets/cuimao/spritesheet.webp" alt="CuiMao animation spritesheet" width="760">
+</p>
+
 ## 一键安装
 
 ### Windows PowerShell
